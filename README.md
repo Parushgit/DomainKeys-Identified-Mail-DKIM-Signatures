@@ -1,6 +1,6 @@
 # DomainKeys-Identified-Mail-DKIM-Signatures
 
-Write a simple C code using Fork – Exec system calls to apply the core DKIM algorithms
+A simple C code using Fork – Exec system calls to apply the core DKIM algorithms
 on the email repository collected above. The steps are as follows:
 
 -> Generate the public – private RSA key pairs for both 1024 and 2048 bits using openssl
